@@ -1,6 +1,6 @@
 # Reto Unidad 5: Análisis Visual de Datos Reales
 
-**Estudiante:** Jose Miguel Vasquez Echavarria y Isabela Motaño
+**Estudiante:** Jose Miguel Vasquez Echavarria y Isabela Motaño  
 **Materia:** Programación
 
 ## ¿Qué datos usé y de dónde salieron?
